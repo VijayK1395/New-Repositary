@@ -15,6 +15,10 @@ public class Employee {
 		System.out.println("Emp Mail: ");
 
 	}
+	private void empPhno() {
+		System.out.println("Emp ph: ");
+
+	}
 	
 	
 }
