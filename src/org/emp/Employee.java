@@ -1,18 +1,30 @@
 package org.emp;
 
 public class Employee {
-	private void empId() {
+	public void empId() {
 		System.out.println("Emp Id: "+1234);
 
 
 }
-	private void empName() {
+	public void empName() {
 		System.out.println("Emp Name: ");
 		
 
 	}
-	private void empMail() {
+	public void empMail() {
 		System.out.println("Emp Mail: ");
+
+	}
+	public void kdj() {
+		// TODO Auto-generated method stub
+
+	}
+	public void wefiorggwpfjqw() {
+		// TODO Auto-generated method stub
+
+	}
+	public void dfiufhifrttrgfghjuh() {
+		// TODO Auto-generated method stub
 
 	}
 	
