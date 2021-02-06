@@ -6,4 +6,15 @@ public class Employee {
 
 
 }
+	private void empName() {
+		System.out.println("Emp Name: ");
+		
+
+	}
+	private void empMail() {
+		System.out.println("Emp Mail: ");
+
+	}
+	
+	
 }
