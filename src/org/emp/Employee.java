@@ -21,7 +21,11 @@ public class Employee {
 
 	}
 	private void empAdd() {
-		// TODO Auto-generated method stub
+		System.out.println("emp");
+
+	}
+	private void empCity() {
+		System.out.println("emp");
 
 	}
 	
