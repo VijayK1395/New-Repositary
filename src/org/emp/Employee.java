@@ -20,17 +20,7 @@ public class Employee {
 
 
 	}
-	
-
-	public void kdj() {
-		// TODO Auto-generated method stub
-
-	}
-	public void wefiorggwpfjqw() {
-		// TODO Auto-generated method stub
-
-	}
-	public void dfiufhifrttrgfghjuh() {
+	private void empAdd() {
 		// TODO Auto-generated method stub
 
 	}
