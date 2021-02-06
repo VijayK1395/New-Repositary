@@ -15,6 +15,13 @@ public class Employee {
 		System.out.println("Emp Mail: ");
 
 	}
+	private void empPhno() {
+		System.out.println("Emp ph: ");
+
+
+	}
+	
+
 	public void kdj() {
 		// TODO Auto-generated method stub
 
@@ -27,6 +34,5 @@ public class Employee {
 		// TODO Auto-generated method stub
 
 	}
-	
 	
 }
