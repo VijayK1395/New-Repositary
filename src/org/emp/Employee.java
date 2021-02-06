@@ -28,5 +28,17 @@ public class Employee {
 		System.out.println("emp");
 
 	}
+	private void dvk() {
+		// TODO Auto-generated method stub
+
+	}
+	private void vgkef() {
+		// TODO Auto-generated method stub
+
+	}
+	private void dsjd() {
+		// TODO Auto-generated method stub
+
+	}
 	
 }
